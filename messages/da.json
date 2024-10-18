@@ -1,3 +1,6 @@
 {
-    "$schema": "https://inlang.com/schema/inlang-message-format"
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"greeting": "Hej med dig",
+	"testing": "Jeg er på dansk",
+	"about": "Om Os"
 }

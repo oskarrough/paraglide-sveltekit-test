@@ -1,2 +1,1 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<p>This is a test of Sveltekit + Svelte 5 + Paraglide i18n. There is an issue with load() functions not re-running properly as the language changes.</p>
